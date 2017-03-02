@@ -1,4 +1,3 @@
 hello-world
 ===========
-Java code
-first repo
+Just or test(play to github features)
